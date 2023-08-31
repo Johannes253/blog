@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hello, my name is Johannes Mayrhofer, i am an international student from Austria. Currently i am learning 
+Jekyll and in the process of that i am building this blog. I am 24 years of age and have 4 years of experience as a Software Engineer, started my University Education back home 2 years ago. I have never had a ,,formal" course in Web Design.
