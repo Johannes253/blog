@@ -10,8 +10,8 @@ I am really looking forward to getting back into Javascript in the next homework
 
 Below you can see my blog before and after i restyled it. 
 
-![Before Restyling](/assets/css/images/Before.png)
-![After Restyling](/assets/css/images/After.png)
+![Before Restyling]({{"/assets/css/images/Before.png"|relative_url}})
+![After Restyling]({{"/assets/css/images/After.png"|relative_url}})
 
 <div style="clear:both;"></div>
 
