@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Razor Pages"
+title: "Razor Pages with multiple Models"
 author: Johannes Mayrhofer
 ---
 
