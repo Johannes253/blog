@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moqups"
+title: "Second client meeting"
 author: Johannes Mayrhofer
 ---
 
